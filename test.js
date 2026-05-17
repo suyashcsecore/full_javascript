@@ -29,5 +29,8 @@
 
 // console.log("Result is : ", (64));
 
-
+// const arr = [1, 2, 3, 4, 5]
+// for (const num of arr) {
+//     console.log(num);   
+// }
 
