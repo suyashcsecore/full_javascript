@@ -13,9 +13,21 @@
 // console.log(myDate.getDate());
 // console.log(myDate.getDay());
 
-const marvelHeros = ["Ironman", "Spiderman", "Thor"];
-const dcHeros = ["Superman", "Flash", "Batman"];
-const allHeros = marvelHeros.concat(dcHeros);
-console.log(allHeros);
-allHeros.pop();
-console.log(allHeros);
+// const marvelHeros = ["Ironman", "Spiderman", "Thor"];
+// const dcHeros = ["Superman", "Flash", "Batman"];
+// const allHeros = marvelHeros.concat(dcHeros);
+// console.log(allHeros);
+// allHeros.pop();
+// console.log(allHeros);
+
+// const tinderUser = new Object();
+// tinderUser.id = "123abc";
+// tinderUser.name = "Sam";
+// tinderUser.email = "Sam@google.com"
+
+// console.log(tinderUser.hasOwnProperty("id"));
+
+// console.log("Result is : ", (64));
+
+
+
